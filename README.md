@@ -78,7 +78,7 @@ TCN ───────────┘
 
 ---
 
-# 5. Add a "System in 30 seconds"
+5. Add a "System in 30 seconds"
 
 This is very useful for clients/recruiters.
 
@@ -110,7 +110,7 @@ INPUT
 
 ---
 
-# 6. Showcase the actual application
+6. Showcase the actual application
 
 Don't bury the frontend.
 
@@ -171,7 +171,7 @@ npm run dev
 
 ---
 
-# 9. Add an architecture diagram
+9. Add an architecture diagram
 
 This is where I'd make your README **different from ordinary GitHub projects**.
 
