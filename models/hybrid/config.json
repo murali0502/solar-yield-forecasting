@@ -1,0 +1,10 @@
+{
+    "method": "validation_optimized_weighted_average",
+    "tcn_weight": 0.54,
+    "xgboost_weight": 0.45999999999999996,
+    "optimization_metric": "MAE",
+    "weight_search_step": 0.01,
+    "tcn_lookback": 24,
+    "xgboost_model": "models/xgboost/model.json",
+    "tcn_model": "models/tcn/model.keras"
+}

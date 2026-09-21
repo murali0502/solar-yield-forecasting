@@ -1,0 +1,10 @@
+feature,importance
+hour_cos,0.84505874
+hour_sin,0.044673022
+day_cos,0.04237941
+irradiance,0.04092204
+day_sin,0.011161571
+temperature,0.0063052573
+cloud_cover,0.0033862593
+wind_speed,0.0033190397
+humidity,0.0027946422

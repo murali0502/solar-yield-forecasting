@@ -1,0 +1,17 @@
+{
+    "lookback": 24,
+    "features": [
+        "temperature",
+        "humidity",
+        "cloud_cover",
+        "wind_speed",
+        "irradiance",
+        "hour_sin",
+        "hour_cos",
+        "day_sin",
+        "day_cos"
+    ],
+    "target": "solar_output",
+    "batch_size": 64,
+    "epochs": 80
+}
