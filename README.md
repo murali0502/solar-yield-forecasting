@@ -70,7 +70,6 @@ observation.
 
 The final forecast combines the complementary predictions of both models.
 
-```text
 XGBoost ───────┐
                ├──► Hybrid Ensemble ──► Solar Yield
 TCN ───────────┘
