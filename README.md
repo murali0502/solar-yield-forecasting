@@ -75,7 +75,6 @@ XGBoost ───────┐
                ├──► Hybrid Ensemble ──► Solar Yield
 TCN ───────────┘
 
-
 ---
 
 5. Add a "System in 30 seconds"
